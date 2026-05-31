@@ -1,16 +1,14 @@
 <!-- Dynamic header with typing animation -->
 <div align="center">
 
-<!-- Animated wave header using capsule -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+Space+Engineer+%F0%9F%9A%80;Spacecraft+Control+%7C+AEKF+Researcher;Embedded+Systems+Developer;UAVs+%7C+Autonomous+Navigation;IRoC-U+2026+%7C+ISRO+Robotics+Challenge)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Profile views + badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=ArpithaGowdaN&color=1f6feb&style=flat-square&label=Profile+Views)
 ![IEEE](https://img.shields.io/badge/IEEE_PELSE-Member-blue?style=flat-square&logo=ieee&logoColor=white)
 ![IRoC-U](https://img.shields.io/badge/IRoC--U_2026-ISRO_Challenge-orange?style=flat-square)
-![ICIDTM](https://img.shields.io/badge/ICIDTM-IIT_Madras-green?style=flat-square)
+![ICIDTM](https://img.shields.io/badge/ICIDTM_2026-Published-green?style=flat-square)
 
 </div>
 
@@ -18,9 +16,9 @@
 
 ## 🛰️ About Me
 
-- 🔭 Currently working on **Spacecraft Attitude Determination** using **Adaptive Extended Kalman Filters (AEKF)** for precise attitude control
-- 🤖 Competing in **IRoC-U 2026** (ISRO Robotics Challenge) — building autonomous drone navigation for Mars-like terrain without GPS
-- 📄 Paper accepted at **ICIDTM @ IIT Madras** — International Conference on Innovation, Design & Technology Management
+- 🔭 Currently working on **Spacecraft Attitude Determination** using **Adaptive Extended Kalman Filters (AEKF)**
+- 🤖 Competing in **IRoC-U 2026** (ISRO Robotics Challenge) — autonomous drone navigation on Mars-like terrain without GPS
+- 📄 Paper accepted at **ICIDTM 2026**
 - ⚡ Bridging **MATLAB mathematical simulations** and **bare-metal C/C++** on STM32 microcontrollers
 - 🌱 Exploring **Hardware-in-the-Loop (HIL)** testing and AI for space systems
 
@@ -61,7 +59,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpithaGowdaN&layout=compact&theme=github_dark&hide_border=true" height="140"/>
 </div>
 
-<!-- Activity graph -->
 [![Arpitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArpithaGowdaN&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
