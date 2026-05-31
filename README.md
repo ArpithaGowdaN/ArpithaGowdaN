@@ -1,14 +1,21 @@
-<!-- Dynamic header with typing animation -->
+<!-- ARPITHA GOWDA N — GitHub Profile README -->
+<!-- Dynamic typing header -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+Space+Engineer+%F0%9F%9A%80;Spacecraft+Control+%7C+AEKF+Researcher;Embedded+Systems+Developer;UAVs+%7C+Autonomous+Navigation;IRoC-U+2026+%7C+ISRO+Robotics+Challenge)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Spacecraft+Attitude+Determination+%7C+AEKF+Researcher;IRoC-U+2026+%7C+ISRO+Robotics+Challenge;Embedded+Systems+%7C+STM32+%26+C%2B%2B;Computer+Vision+for+Autonomous+Drones;CubeSat+Mission+%F0%9F%9B%B0%EF%B8%8F+%E2%80%94+Upcoming+Project)](https://git.io/typing-svg)
 
-<br/>
+</div>
+
+<!-- Animated capsule header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=100&section=header&text=Arpitha%20Gowda%20N&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
+
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ArpithaGowdaN&color=1f6feb&style=flat-square&label=Profile+Views)
 ![IEEE](https://img.shields.io/badge/IEEE_PELSE-Member-blue?style=flat-square&logo=ieee&logoColor=white)
 ![IRoC-U](https://img.shields.io/badge/IRoC--U_2026-ISRO_Challenge-orange?style=flat-square)
 ![ICIDTM](https://img.shields.io/badge/ICIDTM_2026-Published-green?style=flat-square)
+![CubeSat](https://img.shields.io/badge/CubeSat_Mission-Upcoming_Project-blueviolet?style=flat-square&logo=satellite&logoColor=white)
 
 </div>
 
@@ -16,11 +23,13 @@
 
 ## 🛰️ About Me
 
-- 🔭 Currently working on **Spacecraft Attitude Determination** using **Adaptive Extended Kalman Filters (AEKF)**
-- 🤖 Competing in **IRoC-U 2026** (ISRO Robotics Challenge) — autonomous drone navigation on Mars-like terrain without GPS
+- 🔭 Researching **Spacecraft Attitude Determination** using **Adaptive Extended Kalman Filters (AEKF)** for precise attitude control in orbit
+- 🤖 Competing in **IRoC-U 2026** (ISRO Robotics Challenge) — image feature extraction & autonomous drone navigation on Mars-like terrain, without GPS
 - 📄 Paper accepted at **ICIDTM 2026**
-- ⚡ Bridging **MATLAB mathematical simulations** and **bare-metal C/C++** on STM32 microcontrollers
+- ⚡ Bridging **MATLAB mathematical simulations** ↔ **bare-metal C/C++** on STM32 microcontrollers
 - 🌱 Exploring **Hardware-in-the-Loop (HIL)** testing and AI for space systems
+
+> 🛰️ **Upcoming Project:** CubeSat development — onboard systems, attitude control & communication subsystems
 
 ---
 
@@ -59,7 +68,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpithaGowdaN&layout=compact&theme=github_dark&hide_border=true" height="140"/>
 </div>
 
-[![Arpitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArpithaGowdaN&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArpithaGowdaN&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
